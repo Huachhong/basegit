@@ -3,3 +3,4 @@ hojfwefgiewfwefwe
 showlog
 show-2
 test rm
+edit
