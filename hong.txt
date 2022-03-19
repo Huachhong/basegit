@@ -4,3 +4,5 @@ showlog
 show-2
 test rm
 edit
+2
+5
