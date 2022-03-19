@@ -2,3 +2,4 @@ hojfwefgiewfwefwe
 黄承鸿提交体质报告
 showlog
 show-2
+test rm
